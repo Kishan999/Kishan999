@@ -1,5 +1,7 @@
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=240&section=header&text=Kishan%20Mahajan&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Data%20Engineer%20%7C%20Data%20Pipeline%20Creator%20%7C%20Data%20Product%20Builder&descAlignY=60&descAlign=50" width="100%" />
+
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2500&pause=800&color=1F6FEB&center=true&vCenter=true&width=950&lines=Hi%2C+I'm+Kishan+Mahajan;Data+Engineer+%7C+Data+Pipeline+Creator;SQL+%7C+Python+%7C+Snowflake+%7C+Databricks;Building+Data+Products+and+Data+Pipelines" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2800&pause=1000&color=1F6FEB&center=true&vCenter=true&width=1000&lines=Turning+messy+data+into+meaningful+decisions;Solving+data+problems+with+a+product+mindset;Building+reliable+pipelines+and+trusted+data+products;Engineering+data+for+analytics%2C+governance%2C+and+scale" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -7,7 +9,7 @@
 </p>
 
 <p align="center">
-  I build reliable data pipelines, enterprise-grade data products, analytics workflows, 
+  I build reliable data pipelines, enterprise-grade data products, analytics workflows,
   data quality checks, and governance-ready data solutions using modern data platforms.
 </p>
 
@@ -24,8 +26,6 @@
 </p>
 
 ---
-
-<img align="right" alt="Data Engineering Animation" width="360" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" />
 
 ## 👨‍💻 About Me
 
@@ -60,7 +60,7 @@ core_strengths:
   - Working with Snowflake and Databricks
   - Building dashboards and demo applications
   - Translating business use cases into data solutions
-````
+```
 
 ---
 
@@ -70,47 +70,41 @@ core_strengths:
 
 I build pipelines that ingest, transform, validate, and serve data for analytics, governance, and business use cases.
 
-```text
-Raw Data
-   ↓
-Ingestion
-   ↓
-Transformation
-   ↓
-Data Quality Checks
-   ↓
-Curated Data Product
-   ↓
-Dashboard / API / App / Governance Output
+```mermaid
+flowchart LR
+    A[📥 Raw Data] --> B[🚚 Ingestion]
+    B --> C[⚙️ Transformation]
+    C --> D[✅ Data Quality Checks]
+    D --> E[📦 Curated Data Product]
+    E --> F[📊 Dashboard]
+    E --> G[🔌 API]
+    E --> H[🖥️ App]
+    E --> I[🛡️ Governance Output]
 ```
-
----
 
 ### 🏗️ Data Products
 
 I work on creating reusable and trusted data products that combine:
 
-* Source-aligned datasets
-* Consumer-aligned datasets
-* SQL transformations
-* Data quality checks
-* Business-friendly documentation
-* Metadata and ownership
-* Analytics-ready outputs
-
----
+- Source-aligned datasets
+- Consumer-aligned datasets
+- SQL transformations
+- Data quality checks
+- Business-friendly documentation
+- Metadata and ownership
+- Analytics-ready outputs
 
 ### 🔐 Data Governance & Sensitive Data Detection
 
 I also work on governance-focused use cases such as:
 
-* PII detection
-* Sensitive data classification
-* Confidence scoring
-* Metadata recommendation
-* Collibra-ready CSV outputs
-* Human-in-the-loop validation workflows
-* Data owner review processes
+- PII detection
+- Sensitive data classification
+- Confidence scoring
+- Metadata recommendation
+- Collibra-ready CSV outputs
+- Human-in-the-loop validation workflows
+- Data owner review processes
 
 ---
 
@@ -159,15 +153,11 @@ A data engineering pipeline for detecting sensitive data, assigning confidence s
 
 **Tech:** Python, Presidio, SQL, DataOS, Trino, Collibra, CSV
 
----
-
 ### 🚚 `dataos-supply-chain-data-product`
 
 A supply chain data product focused on orders, warehouses, inventory, shipments, and logistics optimization.
 
 **Tech:** SQL, Python, DataOS, Snowflake, Data Quality, Analytics
-
----
 
 ### 🏦 `banking-customer-360-data-product`
 
@@ -175,29 +165,17 @@ A financial services data product combining customer, account, loan, deposit, an
 
 **Tech:** SQL, DataOS, Trino, Snowflake, Data Modeling, Data Product Design
 
----
-
 ### 🌦️ `trip-intelligence-data-product`
 
 A consumer-aligned data product built using operator, railroad weather, slip sensor, and geo-location datasets.
 
 **Tech:** DataOS, YAML, SQL, Databricks, Data Quality, IoT Analytics
 
----
-
 ### 🧪 `data-quality-checks-with-soda`
 
 A collection of reusable data quality checks across supply chain and financial services datasets.
 
 **Tech:** Soda, Python, YAML, SQL, DataOS
-
----
-
-### 🔴 `streaming-iot-data-pipeline`
-
-A real-time IoT streaming data demo using sensor data and a visual analytics application.
-
-**Tech:** Python, Streamlit, IoT, Streaming Data, DataOS
 
 ---
 
@@ -213,14 +191,6 @@ A real-time IoT streaming data demo using sensor data and a visual analytics app
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kishan999&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages" />
-</p>
-
----
-
-## 🐍 Contribution Motion
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Kishan999/Kishan999/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
 </p>
 
 ---
@@ -251,18 +221,18 @@ building:
 
 ## 💡 Areas I Like Working On
 
-* Data pipeline development
-* SQL-based data modeling
-* Data warehouse and lakehouse patterns
-* Snowflake-based data engineering
-* Databricks lakehouse architecture
-* Data quality checks
-* Data product architecture
-* Metadata and governance automation
-* PII and sensitive data discovery
-* Business-facing analytics
-* Enterprise demo engineering
-* AI-assisted data workflows
+- Data pipeline development
+- SQL-based data modeling
+- Data warehouse and lakehouse patterns
+- Snowflake-based data engineering
+- Databricks lakehouse architecture
+- Data quality checks
+- Data product architecture
+- Metadata and governance automation
+- PII and sensitive data discovery
+- Business-facing analytics
+- Enterprise demo engineering
+- AI-assisted data workflows
 
 ---
 
@@ -287,6 +257,5 @@ building:
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=1F6FEB&height=100&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=120&section=footer" />
 </p>
-
