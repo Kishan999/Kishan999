@@ -1,11 +1,9 @@
-````markdown
-<!-- Animated Header -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2500&pause=800&color=1F6FEB&center=true&vCenter=true&width=950&lines=Hi%2C+I'm+Kishan+Mahajan;Data+Engineer+%7C+DataOS+Practitioner;Building+Data+Products+%26+Data+Pipelines;SQL+%7C+Python+%7C+Snowflake+%7C+Databricks;Turning+Raw+Data+into+Reliable+Insights" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2500&pause=800&color=1F6FEB&center=true&vCenter=true&width=950&lines=Hi%2C+I'm+Kishan+Mahajan;Data+Engineer+%7C+Data+Pipeline+Creator;SQL+%7C+Python+%7C+Snowflake+%7C+Databricks;Building+Data+Products+and+Data+Pipelines" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <b>Data Engineer | DataOS Practitioner | Data Product Builder | Analytics Engineering | Data Governance</b>
+  <b>Data Engineer | Data Pipeline Creator | Data Product Builder | Analytics Engineering | Data Governance</b>
 </p>
 
 <p align="center">
@@ -59,7 +57,7 @@ core_strengths:
   - Writing SQL transformations
   - Creating Python-based data workflows
   - Implementing data quality checks
-  - Working with modern data platforms
+  - Working with Snowflake and Databricks
   - Building dashboards and demo applications
   - Translating business use cases into data solutions
 ````
@@ -124,7 +122,6 @@ I also work on governance-focused use cases such as:
   <img src="https://img.shields.io/badge/Python-Data%20Engineering-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/SQL-Data%20Transformations-025E8C?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/YAML-Workflow%20Specs-CB171E?style=for-the-badge&logo=yaml&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-Frontend%20Logic-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
 </p>
 
 ### Data Platforms & Warehouses
@@ -150,7 +147,6 @@ I also work on governance-focused use cases such as:
 <p>
   <img src="https://img.shields.io/badge/Streamlit-Data%20Apps-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
   <img src="https://img.shields.io/badge/Power%20BI-Business%20Dashboards-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
-  <img src="https://img.shields.io/badge/Vizro-Analytics%20Apps-00A3E0?style=for-the-badge" />
 </p>
 
 ---
@@ -169,7 +165,7 @@ A data engineering pipeline for detecting sensitive data, assigning confidence s
 
 A supply chain data product focused on orders, warehouses, inventory, shipments, and logistics optimization.
 
-**Tech:** SQL, Python, DataOS, Data Quality, Analytics
+**Tech:** SQL, Python, DataOS, Snowflake, Data Quality, Analytics
 
 ---
 
@@ -177,7 +173,7 @@ A supply chain data product focused on orders, warehouses, inventory, shipments,
 
 A financial services data product combining customer, account, loan, deposit, and transaction data.
 
-**Tech:** SQL, DataOS, Trino, Data Modeling, Data Product Design
+**Tech:** SQL, DataOS, Trino, Snowflake, Data Modeling, Data Product Design
 
 ---
 
@@ -185,7 +181,7 @@ A financial services data product combining customer, account, loan, deposit, an
 
 A consumer-aligned data product built using operator, railroad weather, slip sensor, and geo-location datasets.
 
-**Tech:** DataOS, YAML, SQL, Data Quality, IoT Analytics
+**Tech:** DataOS, YAML, SQL, Databricks, Data Quality, IoT Analytics
 
 ---
 
@@ -258,6 +254,8 @@ building:
 * Data pipeline development
 * SQL-based data modeling
 * Data warehouse and lakehouse patterns
+* Snowflake-based data engineering
+* Databricks lakehouse architecture
 * Data quality checks
 * Data product architecture
 * Metadata and governance automation
@@ -291,4 +289,4 @@ building:
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=1F6FEB&height=100&section=footer" />
 </p>
-```
+
